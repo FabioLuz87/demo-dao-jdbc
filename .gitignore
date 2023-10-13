@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+#intelij derectory
+.idea
+demo-dao-jdbc.iml
+
 # Log file
 *.log
 
